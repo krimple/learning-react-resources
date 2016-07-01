@@ -1,3 +1,4 @@
+```text
 Resources
     blog posts
         "Ducks" - Modular Redux - idea
@@ -50,3 +51,5 @@ Resources
                 https://github.com/loggur/react-redux-provide
                 From site: "Bridges the gap between Redux and the declarative nature of GraphQL/Relay. Share, manipulate, and replicate application state across any number of components."
                 - [ ] Research this API
+```
+
